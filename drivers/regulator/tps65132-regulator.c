@@ -22,9 +22,6 @@
 #include <linux/gpio/consumer.h>
 #include <linux/i2c.h>
 #include <linux/module.h>
-#include <soc/oplus/device_info.h>
-#include <soc/oplus/system/oplus_project.h>
-#include <soc/oplus/system/boot_mode.h>
 #include <linux/regmap.h>
 #include <linux/regulator/driver.h>
 #include <linux/regulator/machine.h>
